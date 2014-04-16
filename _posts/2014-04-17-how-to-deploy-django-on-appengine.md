@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "how to deploy Django on Appengine"
+title: "How to deploy Django on Appengine"
 description: ""
 category: 
 tags: []

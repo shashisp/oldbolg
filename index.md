@@ -5,14 +5,14 @@ tagline: just another Dreamer
 ---
 {% include JB/setup %}
 
-I'm Shashi Essp, a Computer Programmer from India, Startup and FOSS Enthusiast. 
+I'm Shashi Essp, a Computer Programmer from India, Startup and FOSS Enthusiast. Wanna be a Enterprenuer, 
 
 
 
 
 
 
-older posts.
+blog posts.
 
 <ul class="posts">
   {% for post in site.posts %}

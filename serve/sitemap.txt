@@ -1,0 +1,16 @@
+
+http://username.github.io/categories.html
+http://username.github.io/atom.xml
+http://username.github.io/tags.html
+http://username.github.io/sitemap.txt
+http://username.github.io/archive.html
+http://username.github.io/index.html
+http://username.github.io/pages.html
+http://username.github.io/rss.xml
+http://username.github.io/pages/projects/index.html
+
+http://username.github.io/2014/07/11/how-to-use-django-rest-framework
+http://username.github.io/2014/04/26/django-deployment-to-heroku-made-easy
+http://username.github.io/2014/04/17/how-to-use-django-forms
+http://username.github.io/2014/04/17/how-to-deploy-django-on-appengine
+http://username.github.io/lessons/2011/12/29/jekyll-introduction

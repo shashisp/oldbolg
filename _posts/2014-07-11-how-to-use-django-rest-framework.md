@@ -7,7 +7,7 @@ tags: [django, REST, API]
 ---
 {% include JB/setup %}
 
-<a href="">Django-Rest-Framework</a> is one of the awesome of library helps you to build API's
+ Django-REST-Framework(DRF) is one of the awesome of library helps you to build API's
 
 ### Installation
 
@@ -16,7 +16,7 @@ tags: [django, REST, API]
     1. pip install djangorestframework
 
     2.  INSTALLED_APPS = (
-         ...
+         
          'rest_framework',
          )
 

@@ -5,25 +5,26 @@
         <description>Home - shashisp</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2014-07-11T04:35:12+05:30</lastBuildDate>
-        <pubDate>2014-07-11T04:35:12+05:30</pubDate>
+        <lastBuildDate>2014-07-11T04:45:01+05:30</lastBuildDate>
+        <pubDate>2014-07-11T04:45:01+05:30</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>How to Use Django Rest Framework?</title>
-                <description>&lt;p&gt;Django-REST-Framework(DRF) is one of the awesome of library helps you to build API&amp;#8217;s&lt;/p&gt;
+                <description>&lt;p&gt;After &lt;a href='www.django-rest-framework.org'&gt;Django-REST-Framework&lt;/a&gt; is one of the awesome library helps you to create REST services.&lt;/p&gt;
 
 &lt;h3 id='installation'&gt;Installation&lt;/h3&gt;
 
-&lt;pre&gt;&lt;code&gt;1. pip install djangorestframework
-
-2.  INSTALLED_APPS = (
-     
-     &amp;#39;rest_framework&amp;#39;,
-     )&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;1. pip install djangorestframework&lt;/code&gt;&lt;/pre&gt;
 
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;INSTALLED_APPS = (&lt;/p&gt;
+
+&lt;p&gt;&amp;#8216;rest_framework&amp;#8217;, )&lt;/p&gt;
+&lt;/li&gt;
+
 &lt;li&gt;
 &lt;p&gt;Create a Serializer.py inside your app &lt;script src='https://gist.github.com/shashisp/091910b85117f0979238.js' /&gt;&lt;/p&gt;
 &lt;/li&gt;

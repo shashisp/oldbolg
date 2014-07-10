@@ -4,7 +4,7 @@
  <title>Home</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2014-07-11T04:45:01+05:30</updated>
+ <updated>2014-07-11T04:39:20+05:30</updated>
  <id>http://username.github.io</id>
  <author>
    <name>shashisp</name>
@@ -17,13 +17,15 @@
    <link href="http://username.github.io/2014/07/11/how-to-use-django-rest-framework"/>
    <updated>2014-07-11T00:00:00+05:30</updated>
    <id>http://username.github.io/2014/07/11/how-to-use-django-rest-framework</id>
-   <content type="html">&lt;p&gt;After &lt;a href='www.django-rest-framework.org'&gt;Django-REST-Framework&lt;/a&gt; is one of the awesome library helps you to create REST services.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Django-REST-Framework (DRF) is one of the awesome of library helps you to build API&amp;#8217;s&lt;/p&gt;
 
 &lt;h3 id='installation'&gt;Installation&lt;/h3&gt;
 
-&lt;pre&gt;&lt;code&gt;1. pip install djangorestframework&lt;/code&gt;&lt;/pre&gt;
-
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;pip install djangorestframework&lt;/p&gt;
+&lt;/li&gt;
+
 &lt;li&gt;
 &lt;p&gt;INSTALLED_APPS = (&lt;/p&gt;
 

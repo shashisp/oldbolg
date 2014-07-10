@@ -1,29 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>Home</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-07-11T04:45:01+05:30</updated>
- <id>http://username.github.io</id>
- <author>
-   <name>shashisp</name>
-   <email>shashiessp@gmail.com</email>
- </author>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Home</title>
+        <description>Home - shashisp</description>
+        <link>http://username.github.io</link>
+        <link>http://username.github.io</link>
+        <lastBuildDate>2014-07-11T04:39:20+05:30</lastBuildDate>
+        <pubDate>2014-07-11T04:39:20+05:30</pubDate>
+        <ttl>1800</ttl>
 
- 
- <entry>
-   <title>How to Use Django Rest Framework?</title>
-   <link href="http://username.github.io/2014/07/11/how-to-use-django-rest-framework"/>
-   <updated>2014-07-11T00:00:00+05:30</updated>
-   <id>http://username.github.io/2014/07/11/how-to-use-django-rest-framework</id>
-   <content type="html">&lt;p&gt;After &lt;a href='www.django-rest-framework.org'&gt;Django-REST-Framework&lt;/a&gt; is one of the awesome library helps you to create REST services.&lt;/p&gt;
+
+        <item>
+                <title>How to Use Django Rest Framework?</title>
+                <description>&lt;p&gt;Django-REST-Framework (DRF) is one of the awesome of library helps you to build API&amp;#8217;s&lt;/p&gt;
 
 &lt;h3 id='installation'&gt;Installation&lt;/h3&gt;
 
-&lt;pre&gt;&lt;code&gt;1. pip install djangorestframework&lt;/code&gt;&lt;/pre&gt;
-
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;pip install djangorestframework&lt;/p&gt;
+&lt;/li&gt;
+
 &lt;li&gt;
 &lt;p&gt;INSTALLED_APPS = (&lt;/p&gt;
 
@@ -45,54 +42,54 @@
 
 &lt;p&gt;That&amp;#8217;s you&amp;#8217;re done! you can browse your services at /api&lt;/p&gt;
 
-&lt;p&gt;Happy Hacking! :)&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Django Deployment to Heroku Made easy</title>
-   <link href="http://username.github.io/2014/04/26/django-deployment-to-heroku-made-easy"/>
-   <updated>2014-04-26T00:00:00+05:30</updated>
-   <id>http://username.github.io/2014/04/26/django-deployment-to-heroku-made-easy</id>
-   <content type="html">&lt;p&gt;I got bored with setting up dev-env and intalling django-toolbelt everytime i start new project, I searched for many Heroku-Django Boilerplates and i got one, in that they were putting all static files in to AWS, U know that i hate AWS as they ask for CREDIT CARD NUMBER&lt;/p&gt;
+&lt;p&gt;Happy Hacking! :)&lt;/p&gt;</description>
+                <link>http://username.github.io/2014/07/11/how-to-use-django-rest-framework</link>
+                <guid>http://username.github.io/2014/07/11/how-to-use-django-rest-framework</guid>
+                <pubDate>2014-07-11T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Django Deployment to Heroku Made easy</title>
+                <description>&lt;p&gt;I got bored with setting up dev-env and intalling django-toolbelt everytime i start new project, I searched for many Heroku-Django Boilerplates and i got one, in that they were putting all static files in to AWS, U know that i hate AWS as they ask for CREDIT CARD NUMBER&lt;/p&gt;
 
 &lt;p&gt;So i created a simple Heroku-Django Boilerplate project named iboilerplate, right now its integrated with Django-registration, sure i will update with few more packages! :D&lt;/p&gt;
 
 &lt;p&gt;you can access it here! &lt;a href='https://github.com/shashisp/iboilerplate'&gt;iBoilerPlate&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;feel free to add features! :)&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>How to use Django Forms?</title>
-   <link href="http://username.github.io/2014/04/17/how-to-use-django-forms"/>
-   <updated>2014-04-17T00:00:00+05:30</updated>
-   <id>http://username.github.io/2014/04/17/how-to-use-django-forms</id>
-   <content type="html">&lt;h1 id='djangoforms_is_djangos_formhandling_library'&gt;django.forms is Django’s form-handling library.&lt;/h1&gt;
+&lt;p&gt;feel free to add features! :)&lt;/p&gt;</description>
+                <link>http://username.github.io/2014/04/26/django-deployment-to-heroku-made-easy</link>
+                <guid>http://username.github.io/2014/04/26/django-deployment-to-heroku-made-easy</guid>
+                <pubDate>2014-04-26T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>How to use Django Forms?</title>
+                <description>&lt;h1 id='djangoforms_is_djangos_formhandling_library'&gt;django.forms is Django’s form-handling library.&lt;/h1&gt;
 
 &lt;p&gt;While it is possible to process form submissions just using Django’s HttpRequest class, using the form library takes care of a number of common form-related tasks. Using it, you can:&lt;/p&gt;
 
 &lt;p&gt;Display an HTML form with automatically generated form widgets. Check submitted data against a set of validation rules. Redisplay a form in the case of validation errors. Convert submitted form data to the relevant Python data types.&lt;/p&gt;
 
 &lt;p&gt;here is the example usage of django-forms&lt;/p&gt;
-&lt;script src='https://gist.github.com/shashisp/10983095.js' /&gt;</content>
- </entry>
- 
- <entry>
-   <title>How to deploy Django on Appengine</title>
-   <link href="http://username.github.io/2014/04/17/how-to-deploy-django-on-appengine"/>
-   <updated>2014-04-17T00:00:00+05:30</updated>
-   <id>http://username.github.io/2014/04/17/how-to-deploy-django-on-appengine</id>
-   <content type="html">&lt;p&gt;Django-nonrel project allows you to run Native Django on appengine.&lt;/p&gt;
+&lt;script src='https://gist.github.com/shashisp/10983095.js' /&gt;</description>
+                <link>http://username.github.io/2014/04/17/how-to-use-django-forms</link>
+                <guid>http://username.github.io/2014/04/17/how-to-use-django-forms</guid>
+                <pubDate>2014-04-17T00:00:00+05:30</pubDate>
+        </item>
 
-&lt;p&gt;here is the simple boilerplate to run django on appengine &lt;a href='http://bitbucket.org/twanschik/nonrel-guestbook/downloads/nonrel-guestbook.zip'&gt;Django appengine simple app&lt;/a&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Jekyll Introduction</title>
-   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
-   <updated>2011-12-29T00:00:00+05:30</updated>
-   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
-   <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
+        <item>
+                <title>How to deploy Django on Appengine</title>
+                <description>&lt;p&gt;Django-nonrel project allows you to run Native Django on appengine.&lt;/p&gt;
+
+&lt;p&gt;here is the simple boilerplate to run django on appengine &lt;a href='http://bitbucket.org/twanschik/nonrel-guestbook/downloads/nonrel-guestbook.zip'&gt;Django appengine simple app&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://username.github.io/2014/04/17/how-to-deploy-django-on-appengine</link>
+                <guid>http://username.github.io/2014/04/17/how-to-deploy-django-on-appengine</guid>
+                <pubDate>2014-04-17T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Jekyll Introduction</title>
+                <description>&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
 
@@ -409,8 +406,12 @@ tags : [how-to, jekyll]
 
 &lt;h2 id='next_steps'&gt;Next Steps&lt;/h2&gt;
 
-&lt;p&gt;Please take a look at &lt;a href='' /&gt; or jump right into &lt;a href=''&gt;Usage&lt;/a&gt; if you&amp;#8217;d like.&lt;/p&gt;</content>
- </entry>
- 
- 
-</feed>
+&lt;p&gt;Please take a look at &lt;a href='' /&gt; or jump right into &lt;a href=''&gt;Usage&lt;/a&gt; if you&amp;#8217;d like.&lt;/p&gt;</description>
+                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <pubDate>2011-12-29T00:00:00+05:30</pubDate>
+        </item>
+
+
+</channel>
+</rss>

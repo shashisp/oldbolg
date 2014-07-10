@@ -7,7 +7,11 @@ tags: [django, REST, API]
 ---
 {% include JB/setup %}
 
- Django-REST-Framework(DRF) is one of the awesome of library helps you to build API's
+
+
+
+After [Django-REST-Framework](www.django-rest-framework.org) is one of the awesome library helps you to create REST services.
+
 
 ### Installation
 
@@ -15,10 +19,13 @@ tags: [django, REST, API]
 
     1. pip install djangorestframework
 
-    2.  INSTALLED_APPS = (
+
+2.  INSTALLED_APPS = (
          
-         'rest_framework',
-         )
+    'rest_framework',
+)
+
+
 
 3. Create a Serializer.py inside your app
 <script src="https://gist.github.com/shashisp/091910b85117f0979238.js"></script>
@@ -35,4 +42,32 @@ tags: [django, REST, API]
 That's you're done! you can browse your services at /api
 
 Happy Hacking! :)
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

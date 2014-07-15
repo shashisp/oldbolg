@@ -8,7 +8,7 @@ tags: [django, REST, API]
 {% include JB/setup %}
 
 
-After [Django-REST-Framework](www.django-rest-framework.org) is one of the awesome library helps you to create REST services.
+ [Django-REST-Framework](www.django-rest-framework.org) is one of the awesome library helps you to create REST services.
 
 
 ### Installation

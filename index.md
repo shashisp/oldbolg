@@ -5,7 +5,7 @@ tagline: just another Dreamer
 ---
 {% include JB/setup %}
 
-I'm Shashi Essp, a Computer Programmer from India, Startup and FOSS Enthusiast. Wanna be a Enterprenuer,Pythonista :D 
+I'm Shashi Essp, a Computer Programmer from India, StartupKid and FOSS Enthusiast. Wanna be a Enterprenuer, a Python fan Boy :D 
 
 
 

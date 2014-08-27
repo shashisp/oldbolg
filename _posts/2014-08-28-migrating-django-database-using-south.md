@@ -13,7 +13,7 @@ tags: [django]
 	
 
 	
-2. In settings.py  add 'south' to INSTALLED
+2. In settings.py  add 'south' to INSTALLED_APPS
 	
 
 	

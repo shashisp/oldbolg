@@ -29,18 +29,20 @@ Migrating your DB using south
  to build your migration history
 
 
-5. and now makes changes to your Models and run
+4. and now makes changes to your Models and run
 ``` 
 ./manage.py schemamigration --auto
 ```
-   to auto detect changes in models
+to auto detect changes in models
+
 
 6. now you can apply migration with following commands
  
 ```
  ./manage.py migrate Mymodel
 ```
-7. and rollback the back to changes you've made
+
+7.To rollback the back to changes you've made
 ``` 
 ./manage.py migrate Mymodel 002(migration number)
 ```

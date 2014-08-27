@@ -8,40 +8,40 @@ tags: [django]
 {% include JB/setup %}
 
 		
-	1.pip install south
+	 pip install south
 
 	
 
 	
-2. In settings.py  add 'south' to INSTALLED_APPS
+ In settings.py  add 'south' to INSTALLED_APPS
 	
 
 	
-	3. ./manage.py 
+	  ./manage.py 
 	
   		you can see all the extra functionalites of south 
 
 
 	
-	4../manage.py schemamigration Mymodel --initial
+	 ./manage.py schemamigration Mymodel --initial
 	
  		to build your migration history
 
 
-5. and now makes changes to your Models and run
+ and now makes changes to your Models and run
 		 
 		./manage.py schemamigration --auto
 		
    	to auto detect changes in models
 
 
-6. now you can apply migration with following commands
+ now you can apply migration with following commands
  
 		
  	./manage.py migrate Mymodel
 		
 
-7. and rollback the back to changes you've made
+to rollback the back to changes you've made
 		 
 	./manage.py migrate Mymodel 002(migration number)
 		

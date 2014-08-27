@@ -12,11 +12,11 @@ Migrating your DB using south
 
 ```
 1.pip install south
+```
 
-```
-```
-2. settings.py  add 'south'
-```
+2.In settings.py  add 'south' to INSTALLED_APPS
+
+
 ```
 3. ./manage.py 
 ```

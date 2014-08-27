@@ -10,6 +10,9 @@ tags: [django]
 Migrating your DB using south
 
 
+Migrating your DB using south
+
+
 ```
 1.pip install south
 
@@ -41,10 +44,14 @@ Migrating your DB using south
  ./manage.py migrate Mymodel
 ```
 7. and rollback the back to changes you've made
-
 ``` 
 ./manage.py migrate Mymodel 002(migration number)
 ```
+
+
+
+
+
 
 
 

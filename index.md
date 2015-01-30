@@ -9,6 +9,6 @@ tagline: just another Dreamer
 
 
 		
->>> interests = ["Python", "AngularJS", "Skateboarding (for a while :D)",
-						"Travel", "Startups", "Hackathons", "Kannada"]
+>>> Python, "AngularJS", "Skateboarding (for a while :D)",
+		"Travel", "Startups", "Hackathons", "Kannada"
 

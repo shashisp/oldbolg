@@ -5,7 +5,13 @@ tagline: just another Dreamer
 ---
 {% include JB/setup %}
 
-```sh
->>> intersts = ["Python", "AngularJS", "Skateboarding (for a while :D)", "Travel", "Startups", "Hackathons", "Kannada"]
-```
+
+# These days
+
+		```sh
+		>>> intersts = ["Python", "AngularJS", "Skateboarding (for a while :D)",
+								 "Travel", "Startups", "Hackathons", "Kannada"]
+
+		```
+
 

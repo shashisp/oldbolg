@@ -9,6 +9,6 @@ tagline: just another Dreamer
 
 
 		
->>> Python, "AngularJS", "Skateboarding (for a while :D)",
-		"Travel", "Startups", "Hackathons", "Kannada"
-
+>>> <a href="#">#Python</a>, <a href="#">#AngularJS</a> <a href="#">#Skateboarding</a>
+	<a href="#">#Startups</a> <a href="#">#Hackathons</a> <a href="#">#Kannada</a>
+				<a href="#">Travel</a>

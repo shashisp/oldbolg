@@ -10,5 +10,4 @@ tagline: just another Dreamer
 
 		
 >>> <a href="#">#Python</a>, <a href="#">#AngularJS</a> <a href="#">#Skateboarding</a>
-	<a href="#">#Startups</a> <a href="#">#Hackathons</a> <a href="#">#Kannada</a>
-				<a href="#">Travel</a>
+	<a href="#">#Startups</a> <a href="#">#Hackathons</a> <a href="#">#Kannada</a>,				<a href="#">#Travel</a>
